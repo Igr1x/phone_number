@@ -1,0 +1,5 @@
+comment = 'phone_number:  Created by pgrx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/phone_number'
+relocatable = false
+superuser = true
